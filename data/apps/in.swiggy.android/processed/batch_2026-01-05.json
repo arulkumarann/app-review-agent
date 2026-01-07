@@ -1,0 +1,23 @@
+{
+  "app_id": "in.swiggy.android",
+  "date": "2026-01-05",
+  "total_reviews": 449,
+  "reviews_with_topics": 144,
+  "reviews_without_topics": 305,
+  "total_topic_mentions": 231,
+  "topic_frequencies": {
+    "delivery_delay": 47,
+    "pricing": 17,
+    "order_accuracy": 37,
+    "customer_support": 28,
+    "payment_issue": 22,
+    "app_technical": 8,
+    "feature_request": 1,
+    "staff_behavior": 38,
+    "quality_issue": 25,
+    "packaging": 8
+  },
+  "new_topics_discovered": [],
+  "unmapped_count": 36,
+  "processed_at": "2026-01-07T03:43:06.315132"
+}

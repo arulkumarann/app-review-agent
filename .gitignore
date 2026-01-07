@@ -2,7 +2,7 @@
 .env
 
 # Data directories
-data/
+# data/
 # output/
 logs/
 test_alpha.py

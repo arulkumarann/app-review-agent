@@ -1,0 +1,179 @@
+{
+  "app_id": "in.swiggy.android",
+  "topics": [
+    {
+      "topic_id": "delivery_delay",
+      "topic_name": "Delivery/Service Delay",
+      "category": "issue",
+      "variations": [
+        "late delivery",
+        "slow service",
+        "took too long",
+        "delayed",
+        "waiting time",
+        "takes forever"
+      ],
+      "description": "Service or delivery slower than expected",
+      "added_date": "2026-01-07",
+      "is_seed": true,
+      "app_specific": false
+    },
+    {
+      "topic_id": "quality_issue",
+      "topic_name": "Product/Service Quality Issue",
+      "category": "issue",
+      "variations": [
+        "poor quality",
+        "bad quality",
+        "stale",
+        "damaged",
+        "not fresh",
+        "low quality",
+        "substandard"
+      ],
+      "description": "Problems with quality of product/service",
+      "added_date": "2026-01-07",
+      "is_seed": true,
+      "app_specific": false
+    },
+    {
+      "topic_id": "staff_behavior",
+      "topic_name": "Staff/Representative Behavior Issue",
+      "category": "issue",
+      "variations": [
+        "rude staff",
+        "unprofessional",
+        "bad behavior",
+        "misbehaved",
+        "impolite",
+        "disrespectful"
+      ],
+      "description": "Negative interaction with staff/representatives",
+      "added_date": "2026-01-07",
+      "is_seed": true,
+      "app_specific": false
+    },
+    {
+      "topic_id": "order_accuracy",
+      "topic_name": "Order/Request Incorrect",
+      "category": "issue",
+      "variations": [
+        "wrong order",
+        "missing items",
+        "incorrect",
+        "didn't receive",
+        "wrong item",
+        "incomplete order"
+      ],
+      "description": "Received something different than requested",
+      "added_date": "2026-01-07",
+      "is_seed": true,
+      "app_specific": false
+    },
+    {
+      "topic_id": "payment_issue",
+      "topic_name": "Payment/Refund Issue",
+      "category": "issue",
+      "variations": [
+        "payment failed",
+        "refund pending",
+        "charged extra",
+        "billing problem",
+        "money deducted",
+        "double charged"
+      ],
+      "description": "Problems with payments or refunds",
+      "added_date": "2026-01-07",
+      "is_seed": true,
+      "app_specific": false
+    },
+    {
+      "topic_id": "app_technical",
+      "topic_name": "App Technical Issue",
+      "category": "issue",
+      "variations": [
+        "app crash",
+        "not working",
+        "login problem",
+        "slow app",
+        "freezing",
+        "glitch",
+        "bug",
+        "error"
+      ],
+      "description": "Technical problems with the application",
+      "added_date": "2026-01-07",
+      "is_seed": true,
+      "app_specific": false
+    },
+    {
+      "topic_id": "customer_support",
+      "topic_name": "Customer Support Issue",
+      "category": "issue",
+      "variations": [
+        "no response",
+        "support unhelpful",
+        "can't reach support",
+        "poor customer service",
+        "no help",
+        "ignored"
+      ],
+      "description": "Issues with customer service quality",
+      "added_date": "2026-01-07",
+      "is_seed": true,
+      "app_specific": false
+    },
+    {
+      "topic_id": "pricing",
+      "topic_name": "Pricing/Charges Issue",
+      "category": "issue",
+      "variations": [
+        "too expensive",
+        "overpriced",
+        "hidden charges",
+        "high fees",
+        "extra charges",
+        "costly"
+      ],
+      "description": "Complaints about pricing or fees",
+      "added_date": "2026-01-07",
+      "is_seed": true,
+      "app_specific": false
+    },
+    {
+      "topic_id": "packaging",
+      "topic_name": "Packaging/Presentation Issue",
+      "category": "issue",
+      "variations": [
+        "poor packaging",
+        "leaked",
+        "damaged package",
+        "messy",
+        "spilled",
+        "broken seal"
+      ],
+      "description": "Problems with packaging or presentation",
+      "added_date": "2026-01-07",
+      "is_seed": true,
+      "app_specific": false
+    },
+    {
+      "topic_id": "feature_request",
+      "topic_name": "Feature Request/Suggestion",
+      "category": "request",
+      "variations": [
+        "add feature",
+        "bring back",
+        "need option",
+        "suggestion",
+        "would be great if",
+        "please add"
+      ],
+      "description": "User requests for features or improvements",
+      "added_date": "2026-01-07",
+      "is_seed": true,
+      "app_specific": false
+    }
+  ],
+  "last_updated": "2026-01-07T03:21:31.473772"
+}
