@@ -1,0 +1,5 @@
+google-play-scraper==1.2.4
+groq==0.4.0
+python-dotenv==1.0.0
+pandas==2.0.3
+numpy==1.24.3

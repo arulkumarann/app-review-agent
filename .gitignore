@@ -1,0 +1,35 @@
+# Environment
+.env
+
+# Data directories
+data/
+# output/
+logs/
+test_alpha.py
+test_llm.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+cache/
+*.cache
